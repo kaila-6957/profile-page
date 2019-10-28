@@ -26,7 +26,7 @@ class ProfilePage extends StatelessWidget {
                   SizedBox(height: 50.0),
                   new Container(height: 1.5, color: Colors.black),
 
-                  Text('ADD NAME',
+                  Text('ADD NAME HERE',
                       style: TextStyle(color: Colors.purpleAccent, fontSize: 30)),
                   new Container(height: 1.5, color: Colors.black),
 
