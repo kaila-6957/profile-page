@@ -23,7 +23,7 @@ class ProfilePage extends StatelessWidget {
 
                   Text('ADD PROGRESS BAR'),
 
-                  SizedBox(height: 50.0),
+                  SizedBox(height: 40.0),
                   new Container(height: 1.5, color: Colors.black),
 
                   Text('ADD NAME HERE',
